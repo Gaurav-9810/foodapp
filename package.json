@@ -1,0 +1,8 @@
+{
+      "name":"Backend",
+      "main": "methods.js",
+      "scripts": {
+            "test":"echo \"Error: no test specification\" && exit 1",
+            "start":"node methods.js"
+      }
+}
